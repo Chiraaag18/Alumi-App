@@ -1,0 +1,13 @@
+ "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter",
+            "type": "dart",
+            "request": "launch",
+            "args": [
+                "--flavor","dev","-t", "lib/main_dev.dart"
+            ],
+            "program": "lib/main_dev.dart"
+        },
+    ]
+}
